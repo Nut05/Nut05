@@ -2,11 +2,11 @@
 
 # Hi, I'm Nhựt Thanh 👋
 
-### Information Systems Student | Aspiring Data Engineer & BI Developer
+### Fourth-year IT Student @ VNUHCM – University of Science
 
-Data Warehouse • ETL / ELT Pipelines • Turning raw data into business insights
+Desktop & Web Apps • Databases • Data Analysis • Learning by building real projects
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=800&lines=Information+Systems+Student+%40+VNUHCM-US;Aspiring+Data+Engineer+%26+BI+Developer;Building+pipelines+with+dbt%2C+Mage+%26+PostgreSQL;Designing+Data+Warehouses+for+real-world+domains" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=800&lines=IT+Student+%40+VNUHCM-US+(K23);Learning+by+building+real-world+projects;Desktop+%E2%80%A2+Web+%E2%80%A2+Database+%E2%80%A2+Data;Always+curious%2C+always+learning" alt="Typing SVG" />
 
 </div>
 
@@ -14,17 +14,17 @@ Data Warehouse • ETL / ELT Pipelines • Turning raw data into business insigh
 
 ## About Me
 
-Hi, I'm **Nhựt Thanh**, a final-year **Information Systems** student at **VNUHCM – University of Science**.
+Hi, I'm **Nhựt Thanh**, a fourth-year **Information Technology** student (K23) at **VNUHCM – University of Science**.
 
-I enjoy working on the **data side** of software: collecting data from many sources, modeling it into a **Data Warehouse**, and building **dashboards** that help people make decisions. Through my academic projects, I have worked across the whole BI lifecycle — from defining business questions and KPIs, designing dimensional models, and writing ETL/ELT pipelines, to building semantic models and reports in **Power BI**.
+I like turning real-world problems into working software. Through team projects at university, I have built **desktop apps**, **web apps**, and **database-driven systems**, and also worked on **data analysis and visualization**. I'm still exploring which direction suits me best, so I try to learn a bit of everything and keep building.
 
-* 🎓 Information Systems student at VNUHCM – University of Science
-* 🏗️ Interested in Data Engineering, Data Warehousing, and Business Intelligence
-* 🔄 Building ELT pipelines with **Mage.ai**, **dbt**, and **PostgreSQL** on **Docker**
-* 🧱 Practicing ETL with **SSIS** and **SQL Server**
-* 🕸️ Crawling and standardizing web data with **Python** (Requests, BeautifulSoup)
-* 📊 Designing KPIs and dashboards with **Power BI** & **DAX**
-* 🚀 Looking for internship / early-career opportunities as a **Data Engineer**, **BI Developer**, or **Data Analyst**
+* 🎓 Fourth-year IT student (K23) at VNUHCM – University of Science
+* 🖥️ Built desktop apps with **C# / WinUI 3** and **WinForms**
+* 🌐 Built web apps with **ReactJS** and **Node.js / Express**
+* 🗄️ Worked with **PostgreSQL**, **SQL Server**, **Oracle**, and **MongoDB**
+* 📊 Explored data analysis and dashboards with **Python**, **Power BI**, and **Tableau**
+* 👥 Enjoy teamwork, and have experience leading a student project team
+* 🌱 Open to internship and early-career opportunities to learn and grow
 
 ---
 
@@ -46,41 +46,49 @@ I enjoy working on the **data side** of software: collecting data from many sour
 
 ## Tech Stack
 
-### Languages & Query
+### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jinja_(dbt)-B41717?style=for-the-badge&logo=jinja&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### Databases & Data Warehouse
+### Desktop & Frontend
 
 <p>
+  <img src="https://img.shields.io/badge/WinUI_3-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/WinForms-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dimensional_Modeling-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Star_%2F_Galaxy_Schema-115E59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
-### Data Engineering (ETL / ELT)
+### Data & Visualization
 
 <p>
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mage.ai-6B4FBB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SSIS-A91D22?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_Scraping-BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### BI & Analytics
-
-<p>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/KPI_Design-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data_Visualization-2F80ED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
 ### Tools
@@ -88,8 +96,9 @@ I enjoy working on the **data side** of software: collecting data from many sour
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
@@ -97,52 +106,86 @@ I enjoy working on the **data side** of software: collecting data from many sour
 
 ## Featured Projects
 
-### 🛒 BI System with Generative AI – Olist E-commerce
+### 📱 PhoneHub – Phone Store Management & Sales App
 
-An end-to-end **Business Intelligence system** built on the Brazilian **Olist e-commerce** dataset, from raw CSV files to interactive dashboards with AI-generated insights.
+A desktop app for a phone and accessories store: in-store sales, online orders, IMEI-based inventory, returns, warranty, business reports, and an AI assistant, with 5 user roles.
 
-```
-Kaggle CSV → Mage.ai (Full / Incremental Load) → PostgreSQL staging → dbt → DDS (Galaxy schema) → Power BI
-                                                                              └→ AI module ↔ LLM
-```
-
-**Role:** Data Modeler & Analytics Engineer  
-**Tech Stack:** Mage.ai, dbt, PostgreSQL, Docker, Power BI, DAX
+**Role:** Team Leader & Developer  
+**Tech Stack:** C# / .NET, WinUI 3, MVVM, Node.js / Express, PostgreSQL (Supabase), JWT
 
 **Key Contributions:**
 
-* Defined **business questions, KPIs, and analysis scope** for each business process
-* Wrote the **source-to-target mapping** for all tables in the DDS layer
-* Built the full **dbt** project: staging → intermediate → **dimension** and **fact** models, with reusable macros (e.g. city-name normalization)
-* Tuned PostgreSQL in Docker so `dbt build` runs reliably on large data
-* Designed dashboard layouts and built the **Seller analysis page** in Power BI with DAX measures
+* Led a team of 4: split tasks, tracked progress, and wrote project docs and coding guidelines
+* Built API endpoints for the customer cart, checkout, accounts, and online orders
+* Designed a shared order and stock workflow used across the app
+* Moved admin screens to **MVVM** and redesigned the admin UI with form validation
+* Extended the database with shelves, stock counts, address book, and after-sales rules
 
-**Repository:** 🔒 Private team repository
+**Repository:** 🔒 Private
 
 ---
 
-### 🧳 Data Warehouse for the Vietnamese Tourism Domain – Graduation Thesis
+### 🏠 HomeStayDorm – Dormitory Rental Management System
 
-A **Data Warehouse** that integrates tour data from major Vietnamese travel companies (Vietravel, Saigontourist, Hanoitourist, Du Lịch Việt, Đất Việt Tour, PYS Travel) to support analysis of the tourism market.
+A web system for managing dormitory and homestay rentals: deposits, rental contracts, residence approval, check-in payments, and room handover.
 
-**Role:** Data Analyst & DW Designer  
-**Tech Stack:** Python (Requests, BeautifulSoup, openpyxl), SQL, draw.io
+**Role:** Full-stack Developer  
+**Tech Stack:** ReactJS, Vite, Node.js / Express, SQL Server
 
 **Key Contributions:**
 
-* Crawled and collected tour data from multiple travel websites using **Python**
-* Built a **data dictionary** for each source and a **unified attribute matrix** across sources
-* Designed the **NDS (Normalized Data Store)** model to integrate heterogeneous sources
+* Built the rental contract, check-in payment, and room handover features
+* Wrote **SQL Server stored procedures** for contracts, deposits, payments, and handover rules
+* Handled shared-room cases (several tenants in one room) in pricing and contracts
+* Improved the UI of the residence approval and handover screens
 
-**Repository:** 🔒 Private team repository (in progress)
+**Repository:** [NhatVy177/HomeStayDorm](https://github.com/NhatVy177/HomeStayDorm)
 
 ---
 
-### 🔁 ETL with SQL Server Integration Services (SSIS)
+### 🔗 Linkify – Link-in-bio Web App
 
-Hands-on ETL packages built with **SSIS** to extract, clean, and load data into a **SQL Server** data warehouse.
+A web app where users create a personal page to share their links, with themes, a mini shop, and donations.
 
-**Tech Stack:** SSIS, SQL Server, Visual Studio
+**Role:** Developer  
+**Tech Stack:** ReactJS, Tailwind CSS, Node.js / Express, MongoDB
+
+**Key Contributions:**
+
+* Built the **shop** and **donation** features
+* Added new page themes and improved the database schema
+
+**Repository:** [dorayakiiiiz/linkify-project](https://github.com/dorayakiiiiz/linkify-project)
+
+---
+
+### 🏥 Hospital Information System – Data Security Project
+
+A Windows app simulating a hospital information system to demonstrate data security on **Oracle**: user and role management, role-based access, auditing, and backup.
+
+**Role:** Developer  
+**Tech Stack:** C# WinForms, WebView2, Oracle Database
+
+**Key Contributions:**
+
+* Wrote access-control policies (VPD) and roles for doctors and coordinators
+* Built the screens for the technician and patient modules
+
+**Repository:** 🔒 Private
+
+---
+
+### 📊 Data Analysis & Visualization Projects
+
+Course projects where my team collected, cleaned, and visualized real-world data.
+
+| Project | Topic | Tools |
+|---|---|---|
+| [DV_Lab1](https://github.com/HuynhDucThinh/DV_Lab1) | E-commerce data: ratings & seller trust | Python, Streamlit, Plotly |
+| WDI Lab | World Development Indicators | Python, Tableau |
+| [DV_Lab3](https://github.com/nt-tis/DV_Lab3) | Stack Overflow Developer Survey 2025 | Python, Power BI |
+| [dv_final](https://github.com/HuynhDucThinh/dv_final) | Final project: data cleaning & buyer persona analysis | Python, pandas, Power BI |
+| BI mini project | E-commerce sales dashboard | PostgreSQL, Power BI |
 
 ---
 
@@ -164,6 +207,6 @@ Hands-on ETL packages built with **SSIS** to extract, clean, and load data into 
 
 ### Thanks for stopping by ✨
 
-I'm always happy to learn, collaborate, and talk about data engineering, data warehousing, and BI.
+I'm always happy to learn, collaborate, and build something useful together.
 
 </div>
