@@ -146,11 +146,15 @@ Hands-on ETL packages built with **SSIS** to extract, clean, and load data into 
 
 ---
 
-## Activity Graph
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nut05&bg_color=0d1117&color=14B8A6&line=14B8A6&point=ffffff&area=true&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Nut05&hide_border=true&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6" alt="GitHub Streak" />
+
+<br /><br />
+
+<img src="https://ghchart.rshah.org/14B8A6/Nut05" alt="Contribution chart" width="100%" />
 
 </div>
 
